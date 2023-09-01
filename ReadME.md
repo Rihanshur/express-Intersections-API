@@ -1,7 +1,6 @@
 # Express Server README
 # Rihanshu Raj 
 # Email : rihanshur@gmail.com
-# Project Assignment For MAPUP.AI
 
 This is the README file for an Express server application. The server is built using Node.js and utilizes the Express framework to handle HTTP requests. It includes various middleware, routes, and custom contexts.
 
